@@ -128,7 +128,7 @@ https://github.com/AlexanderSpitsyn07/test-for-dockerfile
 docker pull chehvostik/webserver:latest
 5. Репозиторий с конфигурацией Kubernetes кластера.
 https://github.com/AlexanderSpitsyn07/repoan
-6. Ссылка на тестовое приложение - http://130.193.51.22:8080/ - и веб интерфейс Grafana с данными доступа.
+6. Ссылка на тестовое приложение - http://130.193.51.22:32764 - и веб интерфейс Grafana с данными доступа.
 http://130.193.51.22:32433
 UserName: admin
 Password: prom-operator
